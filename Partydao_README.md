@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## PartyBid
 
 PartyBid is a protocol that allows a group of internet homies to pool their funds together in order to win an NFT auction.
@@ -98,3 +99,6 @@ The findings from the security review for PartyBid contracts can be found [here]
 PartyBid contracts are reproduceable under the terms of [MIT license](https://en.wikipedia.org/wiki/MIT_License).
 
 MIT © PartyDAO
+=======
+# OurNFT
+>>>>>>> 72ce3063c1fbf8ddf9fa37aed74bc48807d01d45
